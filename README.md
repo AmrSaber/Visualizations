@@ -25,3 +25,6 @@ I will keep this main README up to date with gifs of the included visualizations
 
 ### Robotic Arm (Forward Kinematics)
 ![Robotic Arm](https://i.imgur.com/Rnc5H92.gif)
+
+### Robotic Arm (Reverse Kinematics)
+![Robotic Arm](https://i.imgur.com/vWU39Bi.gif)
